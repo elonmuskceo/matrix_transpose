@@ -1,3 +1,1 @@
-transformers
-gradio
-numpy
+git+https://github.com/julien-c/gradio.git@hf_skin
